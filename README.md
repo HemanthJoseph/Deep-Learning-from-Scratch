@@ -4,7 +4,9 @@
 This is a code base for my Deep Learning course in Fall 2022, an adapted version of the assignments for the ```CS231n: Deep Learning for Computer Vision``` from Stanford University, designed by Andrej Karpathy and Fei-Fei Li.<br>
 We work through all the basic fundamentals and first principles of Deep Learning just using **Python and Numpy**.
 
-This course consists of three assignment modules with each module going over a bunch of Deep Learning topics in depth.
+This course consists of three assignment modules with each module going over a bunch of Deep Learning topics in depth. The dataset used in this course is the CIFAR-10 dataset which is sufficient for the purpose of this exercises.<br>
+
+![main pic](/assets/main_img.jpg)
 
 ## Usage
 * Clone the repo to your local machine
