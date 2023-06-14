@@ -48,7 +48,10 @@ This assignment module consists of the following topics<br>
 <br>
 Note: I have yet to push a couple of the assignments from this module.
 
-
+For assignment3, I had to remove the datasets because they were too huge. You can download them all from [here](https://drive.google.com/drive/folders/1xpKckKMCBg7tjIc_HY5vQzK18_ZAL0mv?usp=drive_link) and place it in the following folder.
+```
+/assignment3/cs231n/datasets/
+```
 <br>
 
 
