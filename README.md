@@ -6,6 +6,23 @@ We work through all the basic fundamentals and first principles of Deep Learning
 
 This course consists of three assignment modules with each module going over a bunch of Deep Learning topics in depth.
 
+## Usage
+* Clone the repo to your local machine
+```
+git clone https://github.com/HemanthJoseph/Deep-Learning-from-Scratch.git
+```
+* Upload files to your Google Colab
+
+You can alternatively clone it directly onto your colab by using the following command
+```
+Mount your drive onto colab
+```
+```
+! git clone https://github.com/HemanthJoseph/Deep-Learning-from-Scratch.git
+```
+
+The usage for each assignment file is mentioned clearly in their respective .ipynb files as linked below.
+
 ## Assignment Modules
 ### Assignment 1
 In this assignment you will practice putting together a simple image classification pipeline based on the k-Nearest Neighbor or the SVM/Softmax classifier. The goals of this assignment are as follows
